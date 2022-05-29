@@ -1,0 +1,151 @@
+# OT183-server
+<hr>
+
+<h3>Roles</h3>
+
+<table>
+<thead>
+<td>ID</td>
+<td>TIPO</td>
+</thead>
+  <tr>
+    <td>1</td>
+    <td>USER</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>ADMIN</td>
+  </tr>
+</table>
+<hr>
+
+<h3>Users</h3>
+
+<table >
+<thead>
+<td>ID</td>
+<td>TIPO</td>
+<td>EMAIL</td>
+<td>PASSWORD</td>
+</thead>
+  <tr>
+    <td>1</td>
+    <td>USER</td>
+    <td>Adriana.Hernandez@gmail.com</td>
+    <td>123456789</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>USER</td>
+    <td>Alejandro.Sanchez@gmail.com</td>
+    <td>123456789</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>USER</td>
+    <td>Alexander.Acevedo@gmail.com</td>
+    <td>123456789</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>USER</td>
+    <td>Andrea.Vargas@gmail.com</td>
+    <td>123456789</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>USER</td>
+    <td>Andres.Acero@gmail.com</td>
+    <td>123456789</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>USER</td>
+    <td>Angela.Garcia@gmail.com</td>
+    <td>123456789</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>USER</td>
+    <td>Angelica.Monroy@gmail.com</td>
+    <td>123456789</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>USER</td>
+    <td>Angie.Piñeros@gmail.com</td>
+    <td>123456789</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>USER</td>
+    <td>Camilo.Blanco@gmail.com</td>
+    <td>123456789</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>USER</td>
+    <td>Carlos.Fernandez@gmail.com</td>
+    <td>123456789</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>ADMIN</td>
+    <td>Carol.Ruiz@gmail.com</td>
+    <td>123456789</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>ADMIN</td>
+    <td>Carolina.Rodriguez@gmail.com</td>
+    <td>123456789</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>ADMIN</td>
+    <td>Catherine.Cortes@gmail.com</td>
+    <td>123456789</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>ADMIN</td>
+    <td>Cinthya.Gomez@gmail.com</td>
+    <td>123456789</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>ADMIN</td>
+    <td>Claudia.Castellanos@gmail.com</td>
+    <td>123456789</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>ADMIN</td>
+    <td>Cristina.Contreras@gmail.com</td>
+    <td>123456789</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>ADMIN</td>
+    <td>Daniel.Pinzon@gmail.com</td>
+    <td>123456789</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>ADMIN</td>
+    <td>Daniela.Alfonso@gmail.com</td>
+    <td>123456789</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>ADMIN</td>
+    <td>Diana.Guzman@gmail.com</td>
+    <td>123456789</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>ADMIN</td>
+    <td>Diego.Torres@gmail.com</td>
+    <td>123456789</td>
+  </tr>
+</table>
